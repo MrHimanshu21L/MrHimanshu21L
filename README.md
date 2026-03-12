@@ -1,4 +1,5 @@
 # 💫 About Me:
+#### Mr. Himanshu Kumar Gupta
 I am an engineering student exploring Artificial Intelligence and Machine Learning with a strong emphasis on conceptual clarity and system-level understanding. My goal is to design intelligent systems that solve meaningful real-world problems.<br>Current interests include:<br>
 - Machine Learning algorithms<br>
 - Deep Learning architectures<br>
