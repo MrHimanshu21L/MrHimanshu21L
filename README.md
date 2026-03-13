@@ -1,12 +1,4 @@
-<div align="center">
-  <h1>Hi, I'm Mr. Himanshu Kumar Gupta 👋</h1>
-  <p><strong>AI & Machine Learning Enthusiast • Technology Explorer • Systems Thinker</strong></p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=MrHimanshu21L&color=blueviolet" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/MrHimanshu21L?style=social" alt="GitHub followers" />
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00F5FF,50:7F00FF,100:FF00FF&section=header&text=Mr.%20Himanshu%20Kumar%20Gupta&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Technology%20Explorer&descAlignY=60&descSize=20"/>
 
 ---
 
